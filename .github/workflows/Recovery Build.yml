@@ -14,7 +14,7 @@ on:
       DEVICE_TREE_URL:
         description: 'DEVICE_TREE_URL'
         required: true
-        default: 'https://github.com/abkdmn-ng/android_device_motorola_rhodei'
+        default: 'https://github.com/abkdmn-ng/twrp_motorola_rhodei'
       DEVICE_TREE_BRANCH:
         description: 'DEVICE_TREE_BRANCH'
         required: true
