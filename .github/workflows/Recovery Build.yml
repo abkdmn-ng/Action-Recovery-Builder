@@ -14,11 +14,11 @@ on:
       DEVICE_TREE_URL:
         description: 'DEVICE_TREE_URL'
         required: true
-        default: 'https://github.com/abkdmn-ng/twrp_motorola_rhodei'
+        default: 'https://github.com/abkdmn-ng/main-X6831'
       DEVICE_TREE_BRANCH:
         description: 'DEVICE_TREE_BRANCH'
         required: true
-        default: 'rhodei_g-user-11-S2SSIS32.18-12-4-11-59b9c2-release-keys'
+        default: 'vnd_x6831_v7520-user-12-SP1A.210812.016-329306-release-keys'
       DEVICE_PATH:
         description: 'DEVICE_PATH'
         required: true
