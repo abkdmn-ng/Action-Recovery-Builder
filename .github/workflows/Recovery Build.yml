@@ -18,7 +18,7 @@ on:
       DEVICE_TREE_BRANCH:
         description: 'DEVICE_TREE_BRANCH'
         required: true
-        default: 'rhodei_g-user-11-S2SSIS32.18-12-4-11-59b9c2-release-keys'
+        default:'twrp-3.xx-1'
       DEVICE_PATH:
         description: 'DEVICE_PATH'
         required: true
